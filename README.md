@@ -63,3 +63,21 @@ Todas as operações principais foram encapsuladas em funções distintas para m
 ### Exemplo de Uso:
 
 Ao iniciar o programa, você verá o menu:
+
+=============== MENU =============== 
+[d] Depositar 
+[s] Sacar 
+[e] Extrato 
+[c] Nova conta 
+[u] Novo usuário 
+[l] Listar contas 
+[q] Sair 
+
+Você deve começar cadastrando um usuário (`u`) e, em seguida, uma conta (`c`) para poder realizar as operações de depósito e saque.
+
+---
+
+## ✒️ Autor
+
+* Luís Felipe de Jesus Soares
+* GitHub: luisfjs14
