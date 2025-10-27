@@ -79,5 +79,4 @@ Você deve começar cadastrando um usuário (`u`) e, em seguida, uma conta (`c`)
 
 ## ✒️ Autor
 
-* Luís Felipe de Jesus Soares
-* GitHub: luisfjs14
+* **Luís** ([@luisfjs14](https://github.com/luisfjs14))
