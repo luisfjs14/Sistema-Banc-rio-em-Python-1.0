@@ -1,4 +1,4 @@
-# 🏦 Sistema Bancário Simples (v2.0 - Modularizado)
+# 🏦 Sistema Bancário Simples (v1.0 - Modularizado)
 
 Este projeto é uma refatoração e expansão de um sistema bancário simples, implementado em Python, com o objetivo de demonstrar boas práticas de modularização, uso de funções com regras específicas de passagem de argumentos (positional-only e keyword-only), e gerenciamento de usuários e contas.
 
